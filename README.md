@@ -3,7 +3,12 @@
 Demo apps for [Nerd VPN](https://codecanyon.net/item/nerd-vpn-flutter-vpn-android-full-application-with-iap-integrated-with-backend-and-admin-panel/28722345)
 
 <ul>
-<li>Admin Panel : <a href="https://nerd-vpn.nizwar.id">Click here to admin demo</a></li>
+<li>Admin Panel : <a href="https://nerd-vpn.nizwar.id">Click here to admin demo</a>
+<ul>
+ <li>Email : admin@email.com</li>
+ <li>Password : password</li>
+</ul>
+</li>
 <li>Android : <a href="https://github.com/laskarmedia/nerdvpn_demo/releases">Click here to download</a></li>
 <li>iOS : Soon</li>
 </ul>
